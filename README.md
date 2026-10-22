@@ -29,7 +29,7 @@ Enter a chemical equation, click **Confirm**, then the app will show you the bal
   
   **Output:** <code>Error: Cannot be balanced.</code>
 
-#### Image Proof:
+#### Supporting Data:
 <table align="center">
   <tr>
     <th>Standard Chemical Equation</th>
